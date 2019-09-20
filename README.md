@@ -1,6 +1,6 @@
-## Test Page
+## Welkom
 
-You can use the [editor on GitHub](https://github.com/Lucienpemberton/ICT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dit is de homepage van mijn ICT in de Wolken website. je kan mijn projecten voor ICT [hier](https://lucienpemberton.github.io/ICT/projecten) vinden.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
