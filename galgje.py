@@ -48,7 +48,6 @@ while turns > 0:
  
         turns -= 1        
  
-    # print wrong
         print ("\nFout!")
  
         print ("Je hebt nog " + str(turns) + " pogingen")
