@@ -7,6 +7,6 @@ Verder kun je [hier](https://infvo.nl/ictindewolken/index.php/Gebruiker:LucienKe
 
 ## Anders
 
-### [Galgje in Python](https://lucienpemberton.github.io/ICT/galgje.py)
+#### [Galgje in Python](https://lucienpemberton.github.io/ICT/galgje.py)
 
 
