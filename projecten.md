@@ -5,7 +5,7 @@ Welkom op mijn projecten pagina van ICT in de Wolken. Hier onder vind je ze alle
 
 ### Microbit bot
 
-´´´
+```
 from microbit import *
 import neopixel
 
@@ -58,7 +58,7 @@ while True:
     else:
         leftLights(0,255,0)
         rightLights(0,255,0)
-´´´
+```
 
 
 [terug naar homepage](https://lucienpemberton.github.io/ICT/)
