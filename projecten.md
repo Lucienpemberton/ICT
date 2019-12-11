@@ -4,6 +4,7 @@
 Welkom op mijn projecten pagina van ICT in de Wolken. Hier onder vind je ze allemaal.
 
 ### Microbit bot
+Dit is ons eerste programma. Door deze code branden de lampjes groen als er voldoende licht aan de sensor is. Als er niet voldoende licht op de sensor valt gaan de lampjes rood branden. De robot heeft 2 licht sensoren, met deze code hebben we er voor gezorgd dat de linker lampjes en de rechter lampjes los van elkaar kunnen branden als er voldoende licht bij de respectieve sensor zit. Je kunt de sensor met je hand blokkeren om het systeem te testen.
 
 ```
 from microbit import *
