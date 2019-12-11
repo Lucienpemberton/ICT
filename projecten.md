@@ -41,18 +41,18 @@ def lineDetector(side):  # 0 == left, 1 == right
         
         
 while True:
-    isLeftLine = lineDetector(0)
-    isRightLine = lineDetector(1)
+    isLeftLight = lineDetector(0)
+    isRightLight = lineDetector(1)
     
-    if(isLeftLine is True) and (isRightLine is False):
+    if(isLeftLight is True) and (isRightLight is False):
         leftLights(0,255,0)
         rightLights(255,0,0)
 
-    elif(isRightLine is True) and (isLeftLine is False):
+    elif(isRightLight is True) and (isLeftLight is False):
         rightLights(0,255,0)
         leftLights(255,0,0)
 
-    elif(isRightLine is False) and (isLeftLine is False):
+    elif(isRightLight is False) and (isLeftLight is False):
         rightLights(255,0,0)
         leftLights(255,0,0)
         
