@@ -61,7 +61,9 @@ while True:
         leftLights(0,255,0)
         rightLights(0,255,0)
 ```
+
 Hierna hebben wij deze code uitgebreid door bewegingsmogenlijkheden toe te passen. met deze nieuwe versie van de code kan de micro:bit een lijn detecteren en hem volgen. als een van de licht sensoren over de lijn rijden, merkt de robot dit en beweegt hij in de andere riching zodat de lijn tussen de twee sensoren in blijft.
+
 ```
 from microbit import *
 import neopixel  # Neopixel Library so we can control the NeoPixels lights
