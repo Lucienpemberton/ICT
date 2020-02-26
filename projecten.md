@@ -200,4 +200,13 @@ while True:
         stop()
         sleep(200)
 ```
+
+### AI Project
+##### In samenwerking met [Siebe Roeleveld](https://siebefloris.github.io/ICT)
+
+Voor blok 3 hebben wij gekozen voor het AI project. In dit project moeten wij een spel programmeren en er voor zorgen dat de computer hem bovenmenselijk leert spelen.
+WIj hebben als spel voor Flappy Bird gekozen, dit spel is vrij simpel en kan makkelijk nagemaakt worden.
+We hebben er voor gekozen om het in python te schrijven, hier hebben wij al ervaring mee van vorige projecten en er bestaan vele AI libraries die makkelijk te implementeren zijn.
+
+
 [terug naar homepage](https://lucienpemberton.github.io/ICT/)
